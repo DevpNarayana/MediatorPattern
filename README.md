@@ -1,0 +1,1 @@
+This is made to understand how does mediatorpattern work using Javascript.
